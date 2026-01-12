@@ -208,4 +208,5 @@ __marimo__/
 
 # Project-specific ignores
 headers.json
+credentials.json
 opinions
