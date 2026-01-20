@@ -1,4 +1,4 @@
-# Metodyka Analizy Tekstu – Projekt zaliczeniowy
+# Metodyka Analizy Tekstu
 
 **Autor:** Jędrzej Pawłowski  
 **Nr albumu:** 13816  
